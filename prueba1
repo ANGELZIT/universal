@@ -9,7 +9,7 @@ local Window = Rayfield:CreateWindow({
 		FolderName = "Rayfield Interface Suite",
 		FileName = "BG"
 	},
-	KeySystem = true, -- Set this to true to use their key system
+	KeySystem = false, -- Set this to true to use their key system
 	KeySettings = {
 		Title = "Angel key",
 		Subtitle = "Key System",
